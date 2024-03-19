@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me Heisenbuggg@gmail.com
-- 😄 Pronouns: love when one can use their commmon sense
+- 😄 Pronouns: love learning 
 - ⚡ Fun fact: Life is what you make it...
 
 <!---
